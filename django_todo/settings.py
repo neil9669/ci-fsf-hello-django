@@ -28,6 +28,7 @@ SECRET_KEY = 'django-insecure-pwit=oi!m@q*ov9p^9$k2=!(zvh+(=dlgxc=)nx_)#swjg_5%!
 DEBUG = True
 
 ALLOWED_HOSTS = ['8000-neil9669-ci-fsf-hello-dj-jxulyx4k7r.us2.codeanyapp.com']
+ALLOWED_HOSTS = ['np-django-todo-app-d4c0ed4facf4.herokuapp.com']
 
 
 # Application definition
